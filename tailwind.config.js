@@ -10,7 +10,7 @@ export default {
         roboto: ['Roboto Condensed','sans-serif']
       },
       backgroundImage: {
-        'hero-bg': "url('./src/assets/Images/hero-bg.png')",
+        'hero-bg': 'url("./src/assets/Images/hero-bg.png")',
       }
     },
   },
